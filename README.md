@@ -1,6 +1,6 @@
 # Automate-It-Tool
 
-Automation tooln combining features of InventorWork Manager, SAP automation scripts and other functions into a local Django powered web app with a Bootstrap GUI.
+Automation tooln combining features of InventorWork Manager, SAP automation scripts and other functions into a local Flask powered web app with a Bootstrap GUI.
 
 ### Installing
 
